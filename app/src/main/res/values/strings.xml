@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SAFIRAAINI_1202154315_Modul1</string>
+    <string name="text_makan_malam">Makan Malam</string>
+    <string name="text_dengan_milea">Dengan Milea</string>
+
+    <string name="eatbus">Eatbus</string>
+    <string name="abnormal">Abnormal</string>
+    <string name="activity2_name">Study Case</string>
+    <string name="makan_malam2">Makan Malam</string>
+    <string name="menu">Menu</string>
+
+    <string name="porsi">Porsi</string>
+    <string name="rupiah">Rupiah</string>
+    <string name="txt_nasi_uduk">Nasi Uduk</string>
+    <string name="txt_2">2</string>
+    <string name="txt1_nasi_uduk">Nasi Uduk</string>
+    <string name="txt1_2">2</string>
+
+
+
+</resources>
